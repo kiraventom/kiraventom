@@ -3,7 +3,7 @@ Key | Value
 Name | Alikhan Temirkanov
 Location | Saint-Petersburg \|\| Nalchik
 Age | `DateTime.Today.Year - 1998` years
-Study at | Saint-Petersburg State Institute of Technology
+Education | Bachelor's diploma at [Institute of Technology](http://technolog.edu.ru/)
 Work at | really nice company
 Kinda know | .NET, C#, WinForms, WPF, EF
 Want to know | ASP.NET, TypeScript
